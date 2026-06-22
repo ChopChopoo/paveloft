@@ -1,7 +1,7 @@
-      <?xml version="1.0" encoding="UTF-8"?>
-      <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-        <url><loc>https://chopchopoo.github.io/paveloft/index.html</loc><changefreq>monthly</changefreq></url>
-<url><loc>https://chopchopoo.github.io/paveloft/products.html</loc><changefreq>monthly</changefreq></url>
-<url><loc>https://chopchopoo.github.io/paveloft/contact.html</loc><changefreq>monthly</changefreq></url>
-<url><loc>https://chopchopoo.github.io/paveloft/reviews.html</loc><changefreq>monthly</changefreq></url>
-      </urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://chopchopoo.github.io/paveloft/index.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://chopchopoo.github.io/paveloft/products.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://chopchopoo.github.io/paveloft/contact.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://chopchopoo.github.io/paveloft/reviews.html</loc><changefreq>monthly</changefreq></url>
+</urlset>
